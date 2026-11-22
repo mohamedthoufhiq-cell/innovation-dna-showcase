@@ -49,9 +49,16 @@ The Student Intelligence Core has been implemented and tested. Other modules and
 
 This repository is a public showcase and documentation repository. The main application source code remains private.
 
+
+
 ## 🎓 GrowthX Off Campus
 
+**Program:** GrowthX Off Campus
+
 **Project:** Innovation DNA — The Student Operating System
+
+**Off Campus Code:** B7PQ5K
+
 
 ## 👨‍💻 Builder
 
